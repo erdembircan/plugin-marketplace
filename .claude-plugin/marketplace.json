@@ -44,6 +44,24 @@
       "license": "AGPL-3.0-or-later",
       "keywords": ["git", "commit", "push", "conventional-commits"],
       "category": "productivity"
+    },
+    {
+      "name": "testing-philosophy",
+      "source": {
+        "source": "github",
+        "repo": "erdembircan/testing-philosophy-plugin"
+      },
+      "description": "Enforces behavioral testing philosophy: test what code does for consumers, not how it works internally",
+      "version": "1.0.0",
+      "author": {
+        "name": "Erdem Bircan",
+        "email": "erdem.erdembircan@gmail.com"
+      },
+      "homepage": "https://erdembircan.github.io",
+      "repository": "https://github.com/erdembircan/testing-philosophy-plugin",
+      "license": "AGPL-3.0-or-later",
+      "keywords": ["testing", "philosophy", "behavioral-testing", "best-practices"],
+      "category": "development"
     }
   ]
 }

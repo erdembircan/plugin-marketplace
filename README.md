@@ -20,6 +20,14 @@ Git commit and push with conventional commit messages.
 - **Version:** 1.0.0
 - **Keywords:** git, commit, push, conventional-commits
 
+### testing-philosophy
+
+Enforces behavioral testing philosophy: test what code does for consumers, not how it works internally.
+
+- **Repository:** [erdembircan/testing-philosophy-plugin](https://github.com/erdembircan/testing-philosophy-plugin)
+- **Version:** 1.0.0
+- **Keywords:** testing, philosophy, behavioral-testing, best-practices
+
 ## Installation
 
 Add this marketplace to Claude Code:
@@ -33,6 +41,7 @@ Then install a plugin:
 ```
 /plugin install wordpress-docker@erdembircan-plugins
 /plugin install commit-push@erdembircan-plugins
+/plugin install testing-philosophy@erdembircan-plugins
 ```
 
 ## License
