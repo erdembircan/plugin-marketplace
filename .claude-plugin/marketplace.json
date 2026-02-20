@@ -1,0 +1,49 @@
+{
+  "name": "erdembircan-plugins",
+  "metadata": {
+    "description": "A collection of Claude Code plugins by Erdem Bircan",
+    "version": "1.0.0"
+  },
+  "owner": {
+    "name": "Erdem Bircan",
+    "email": "erdem.erdembircan@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "wordpress-docker",
+      "source": {
+        "source": "github",
+        "repo": "erdembircan/wordpress-docker-plugin"
+      },
+      "description": "Set up a WordPress development environment using Docker with WP-CLI, MariaDB, and Xdebug",
+      "version": "1.0.0",
+      "author": {
+        "name": "Erdem Bircan",
+        "email": "erdem.erdembircan@gmail.com"
+      },
+      "homepage": "https://erdembircan.github.io",
+      "repository": "https://github.com/erdembircan/wordpress-docker-plugin",
+      "license": "AGPL-3.0-or-later",
+      "keywords": ["wordpress", "docker", "wp-cli", "mariadb", "xdebug"],
+      "category": "development"
+    },
+    {
+      "name": "commit-push",
+      "source": {
+        "source": "github",
+        "repo": "erdembircan/commit-push-plugin"
+      },
+      "description": "Git commit and push with conventional commit messages",
+      "version": "1.0.0",
+      "author": {
+        "name": "Erdem Bircan",
+        "email": "erdem.erdembircan@gmail.com"
+      },
+      "homepage": "https://erdembircan.github.io",
+      "repository": "https://github.com/erdembircan/commit-push-plugin",
+      "license": "AGPL-3.0-or-later",
+      "keywords": ["git", "commit", "push", "conventional-commits"],
+      "category": "productivity"
+    }
+  ]
+}
