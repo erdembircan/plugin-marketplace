@@ -79,6 +79,25 @@
       "license": "MIT",
       "keywords": ["usage", "rate-limits", "desktop", "session-lock", "mod"],
       "category": "productivity"
+    },
+    {
+      "name": "pipcast",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/erdembircan/pipcast.git",
+        "path": "plugin"
+      },
+      "displayName": "Pipcast",
+      "description": "Picture in picture for Claude Code. While you work in other apps, a small window in the corner of your Mac's screen shows a live board of your sessions, and cuts to BREAKING NEWS, the way a 1990s local TV station would, when one needs you, finishes or stops on an error.",
+      "author": {
+        "name": "Erdem Bircan",
+        "url": "https://github.com/erdembircan"
+      },
+      "homepage": "https://github.com/erdembircan/pipcast",
+      "repository": "https://github.com/erdembircan/pipcast",
+      "license": "MIT",
+      "keywords": ["picture-in-picture", "pip", "notifications", "sessions", "status", "overlay", "macos", "mod"],
+      "category": "productivity"
     }
   ]
 }
