@@ -38,7 +38,7 @@ Shows the current session and weekly usage limits in a band above the prompt of 
 
 ### pipcast
 
-Picture in picture for Claude Code. While you work in other apps, a small window in the corner of your Mac's screen shows a live board of your sessions, and cuts to BREAKING NEWS, the way a 1990s local TV station would, when one needs you, finishes or stops on an error.
+Picture in picture for Claude Code. While you work in other apps, a small window in the corner of your Mac's screen shows a live board of your sessions, and cuts to BREAKING NEWS, the way a 1990s local TV station would, when one needs you, finishes or stops on an error. A small macOS app that comes with Pipcast runs the window, and nothing leaves your Mac.
 
 - **Repository:** [erdembircan/pipcast](https://github.com/erdembircan/pipcast)
 - **Runs in:** the Claude desktop app, on a Mac with Apple silicon and macOS 14 or later
