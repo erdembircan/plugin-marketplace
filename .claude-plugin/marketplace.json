@@ -28,6 +28,7 @@
     },
     {
       "name": "pipcast",
+      "version": "1.4.0",
       "source": {
         "source": "git-subdir",
         "url": "https://github.com/erdembircan/pipcast.git",
